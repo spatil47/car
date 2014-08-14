@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-The car thing
+RC Car
 =============
 
-
-Yup, this is it. 
-=======
-car
-===
-
-The RC car project.
->>>>>>> fc0e98015279034c36d07c3992615a417174612a
+This is an RC car modified to accept input from a Raspberry Pi. The goal is to implement a working AI to control the car through the Pi. 
